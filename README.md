@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-YOu can see more repositories I created and maintain by looking at these organizations:
+You can see more repositories I created and maintain by looking at these organizations:
 - [Learn-Software.com](https://github.com/learn-software-engineering)
 - [InquireDocs](https://github.com/InquireDocs)
 - [CN Services - Terraform Modules](https://github.com/cn-terraform)
