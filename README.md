@@ -2,7 +2,7 @@
 
 You can see more repositories I created and maintain by looking at these organizations:
 - [Learn-Software.com](https://github.com/learn-software-engineering)
-- [InquireDocs](https://github.com/InquireDocs)
+- [InquireDocs](https://github.com/inquiredocs)
 - [CN Services - Terraform Modules](https://github.com/cn-terraform)
 - [CN Services - Docker Images](https://github.com/cn-docker)
 - [CN Services - Writing](https://github.com/cn-writing)
